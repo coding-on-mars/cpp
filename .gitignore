@@ -1,3 +1,10 @@
+#ignore everything
+* 
+# do not ignore files and folders in any dir
+!*/
+# do not ignore files with extensions
+!*.*
+
 # Prerequisites
 *.d
 *.dSYM
@@ -33,3 +40,4 @@
 
 *.vscode
 *.DS_Store
+
