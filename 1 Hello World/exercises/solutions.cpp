@@ -1,7 +1,8 @@
-// Part 1
 // 1. WAP to print below strings, 
 // Hello India!
 // Happy Coding /\:)
+
+// uncomment below code and run to view output.
 
 /*
 #include<iostream>
@@ -23,6 +24,7 @@ int main(){
 // 	move 4 steps down the stairs
 // 	outside!
 
+// uncomment below code and run to view output.
 /*
 #include<iostream>
 using namespace std;
